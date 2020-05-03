@@ -19,13 +19,12 @@
 
 [![Setup video](./setupDisplay.png)](https://youtu.be/j7CzCmqK70c)
 
-choose the seller account
-list a product
-select the buyer account
-You will the product and have the option to buy
+## H2 Next
 
-create a new work space
-than add project and add truffle config
+`npm install`
+`truffle compile`
 
-npm install
-truffle compile
+You are ready to go
+Here is a demo
+
+[![Demo video](./demoDisplay.png)](https://youtu.be/RA27nrEQs98)
