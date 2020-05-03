@@ -18,9 +18,15 @@ list a product
 select the buyer account
 You will the product and have the option to buy 
 
+create a new work space 
+than add project and add truffle config 
+
+
 
 npm install 
 truffle compile
+
+
 
 
 
