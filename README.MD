@@ -17,7 +17,7 @@
    3. add two accounts to Metamask and rename one as "buyer" and the other one as "Seller"
    4. Make sure they have Ether
 
-[![IMAGE ALT TEXT HERE](./setupDisplay.png)](./setup.mov)
+[![Setup video](./setupDisplay.png)](https://youtu.be/j7CzCmqK70c)
 
 choose the seller account
 list a product
